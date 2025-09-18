@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm David 👾</h1>
 
-<!--
-**DAvid41-sys/DAvid41-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Cybersecurity Explorer | Pentester in Training | OSINT Sleuth</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>I live in the world of networks, exploits, and digital mysteries.</i><br>
+  <b>Mission:</b> find vulnerabilities, fix gaps, and learn something new every day.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🛠️ My Arsenal</h2>
+<ul>
+  <li><b>Programming:</b> <code>Python</code>, <code>JavaScript</code>, <code>Bash</code></li>
+  <li><b>Tools & Platforms:</b> TryHackMe, HackerOne, Nessus, Burp Suite</li>
+  <li><b>Hacking Goals:</b> Web vulnerabilities, Red Team exercises, OSINT challenges</li>
+</ul>
+
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+</p>
+
+<h2>📝 Top Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+</p>
+
+<h2>🎯 Fun Facts</h2>
+<ul>
+  <li>Coffee-powered coder ☕</li>
+  <li>Fan of mind-bending CTFs and hacking labs</li>
+  <li>Lifelong learner: always one exploit away from a new skill</li>
+</ul>
+
+<h2>🌐 Let's Connect</h2>
+<p>
+  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> |
+  <a href="https://tryhackme.com/p/your-username">TryHackMe</a> |
+  <a href="https://hackerone.com/your-username">HackerOne</a>
+</p>
+
+<p align="center" style="color: #FF5733; font-size:18px;">
+  “Ethical hacking isn’t just a skill—it’s an art.” ⚡
+</p>
