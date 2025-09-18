@@ -35,9 +35,9 @@
 
 <h2>🌐 Let's Connect</h2>
 <p>
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> |
-  <a href="https://tryhackme.com/p/your-username">TryHackMe</a> |
-  <a href="https://hackerone.com/your-username">HackerOne</a>
+  <a href="https://www.linkedin.com/in/david-abdurahmanov-b6991b332/">LinkedIn</a> |
+  <a href="https://tryhackme.com/p/001..AKuLA">TryHackMe</a> |
+  <a href="https://hackerone.com/abdurahmanov?type=user">HackerOne</a>
 </p>
 
 <p align="center" style="color: #FF5733; font-size:18px;">
