@@ -18,12 +18,12 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DAvid41-sys&show_icons=true&theme=radical" />
 </p>
 
 <h2>📝 Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAvid41-sys&layout=compact&theme=radical" />
 </p>
 
 <h2>🎯 Fun Facts</h2>
